@@ -1,5 +1,7 @@
 # IS507
 #midterm report document
-[IS507_project.pdf](https://github.com/user-attachments/files/33358916/IS507_project.pdf)
+[IS507_project-2.pdf](https://github.com/user-attachments/files/33736168/IS507_project-2.pdf)
+
 #slide presentation
-[IS507_midterm.pdf](https://github.com/user-attachments/files/33358914/IS507_midterm.pdf)
+[IS507_midterm-2.pdf](https://github.com/user-attachments/files/33736165/IS507_midterm-2.pdf)
+
